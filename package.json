@@ -1,0 +1,19 @@
+{
+  "name": "yum",
+  "version": "1.0.0",
+  "description": "StarWars Fan Page",
+  "main": "index.js",
+  "author": "WDI",
+  "license": "ISC",
+  "scripts": {
+    "seed": "node ./db/seed.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.7.12",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

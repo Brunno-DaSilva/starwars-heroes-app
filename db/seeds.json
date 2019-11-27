@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745090/imgs_starwars/imgs/luke_p8yqln.png",
+    "attack": "Push",
+    "attackDescription": "Luke enhances his speed and Pushes enemies away.",
+    "homeworld": "Tatooine"
+  },
+  {
+    "name": "Yoda",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745089/imgs_starwars/imgs/yoda_zyjbjn.png",
+    "attack": "Unleash",
+    "attackDescription": "Yoda unleashes the Force in an area in front of him, damaging and pushing foes.",
+    "homeworld": "Unknown"
+  },
+  {
+    "name": "Darth Maul",
+    "weapon": "Double-bladed lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745093/imgs_starwars/imgs/maul_ystdnj.png",
+    "attack": "Spin Attack",
+    "attackDescription": "High velocity lightsaber spin attack, cutting down enemies in his path as he leaps forward.",
+    "homeworld": "Dathomir"
+  },
+  {
+    "name": "Boba Fett",
+    "weapon": "BlasTech EE-3",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745093/imgs_starwars/imgs/boba_nq5zof.png",
+    "attack": "For the Hunt",
+    "attackDescription": " Boba Fett disappears from enemy radar, gains unlimited jet pack fuel, and acquires insight into the location of nearby foes.",
+    "homeworld": "Kamino"
+  },
+
+  {
+    "name": "Captain Phasma",
+    "weapon": "Sonn-Blas F-11D",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745090/imgs_starwars/imgs/phasma_s2lsew.png",
+    "attack": "First Order Sentry Droid",
+    "attackDescription": "This tool can blast enemies at far distances, while including a shock functionality for close targets. ",
+    "homeworld": "unknown"
+  },
+
+  {
+    "name": "Rey",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745089/imgs_starwars/imgs/rey_wcfv6m.png",
+    "attack": "Insight",
+    "attackDescription": " Rey takes a moment to deeply sense her surroundings, revealing and highlighting all nearby enemies.",
+    "homeworld": "Jakku"
+  },
+  {
+    "name": "Finn",
+    "weapon": "GLIE-44 ",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745091/imgs_starwars/imgs/finn_hacomw.png",
+    "attack": "Deadeye",
+    "attackDescription": "Finn focuses and targets one enemy in front of him, making sure every shot counts.",
+    "homeworld": "11 ABY"
+  },
+
+  {
+    "name": "Palpatine",
+    "weapon": " Force Lightning",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745091/imgs_starwars/imgs/palpatine_l4jl6q.png",
+    "attack": "Dark Aura",
+    "attackDescription": "The area around The Emperor is charged with Force energy, damaging and slowing foes.",
+    "homeworld": "Naboo"
+  },
+
+  {
+    "name": "Han Solo",
+    "weapon": "DL-44 Heavy Blaster Pistol",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745090/imgs_starwars/imgs/solo_rq86zf.png",
+    "attack": "Detonite Charge",
+    "attackDescription": "Han throws a sticky explosive that can be detonated at will.",
+    "homeworld": "Corellia"
+  },
+
+  {
+    "name": "Chewbacca",
+    "weapon": "Bowcaster",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745090/imgs_starwars/imgs/chewbacca_bi2izs.png",
+    "attack": "Furious Bowcaster",
+    "attackDescription": " With a mighty roar, Chewbacca overcharges his Bowcaster, allowing him to fire full-power shots with no charge time.",
+    "homeworld": "Kashyyyk"
+  },
+
+  {
+    "name": "Darth Vader",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745091/imgs_starwars/imgs/vader_zojfbn.png",
+    "attack": "Force Choke",
+    "attackDescription": "Vader uses his iconic Force choke to lift, damage, and drop enemies.",
+    "homeworld": "Tatooine"
+  },
+  {
+    "name": "Leia Organa",
+    "weapon": "Defender Pistol",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745092/imgs_starwars/imgs/leia_rshurc.png",
+    "attack": "Rapid Fire",
+    "attackDescription": "Leia launches a stream of blaster fire.",
+    "homeworld": "Alderaan"
+  },
+
+  {
+    "name": "Lando Calrissian",
+    "weapon": "X-8 Night Sniper",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745092/imgs_starwars/imgs/lando_delzx6.png",
+    "attack": "Sharp Shot",
+    "attackDescription": "Lando takes focus and unloads powerful shots on up to five enemies.",
+    "homeworld": "Socorro"
+  },
+
+  {
+    "name": "Bossk",
+    "weapon": "Relby V-10",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745092/imgs_starwars/imgs/bossx_tml4ij.png",
+    "attack": "Predator Instincts",
+    "attackDescription": "Bossk gains heat vision and enhanced strength as he loads high-damage micro grenades.",
+    "homeworld": "Trandosha"
+  },
+
+  {
+    "name": "Anakin Skywalker",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745090/imgs_starwars/imgs/anakin_vzzwqw.png",
+    "attack": "Retribution",
+    "attackDescription": "Anakin’s powers intensify whenever he and any nearby allies are attacked, building towards the ultimate punishment of a swift and inescapable grip seizing all enemies around him.",
+    "homeworld": "Tatooine"
+  },
+
+  {
+    "name": "Obi-Wan Kenobi",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745093/imgs_starwars/imgs/obiwan_iwhsvr.png",
+    "attack": "Restrictive Mind Trick",
+    "attackDescription": "A Jedi’s mastery of the Force can influence the weak-minded, and in the case of Master Kenobi, even subvert his enemy’s desire to dodge his attacks and use their abilities against him.",
+    "homeworld": "Stewjon"
+  },
+  {
+    "name": "Kylo Ren",
+    "weapon": "Lightsaber",
+    "images": "https://res.cloudinary.com/duprwuo4j/image/upload/v1574745092/imgs_starwars/imgs/kyle_hpslxe.png",
+    "attack": "Freeze",
+    "attackDescription": "Kylo Ren immobilizes enemies in front of him.",
+    "homeworld": "Chandrila"
+  }
+]
